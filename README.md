@@ -58,12 +58,14 @@ MILKART/
 
 # 📸 Screenshots
 
+# 📸 Screenshots
+
 ## 🖼️ Project Banner
-![Project Banner](ec/app/static/app/images/banner/b1.jpg)
+![Project Banner](milkcart/app/static/app/images/banner/b1.jpg)
 
 ## 🛒 Product Section
-![Product Icbars](ec/app/static/app/images/product/icbars.png)  
-![Curd Premium](ec/app/static/app/images/product/curd-premium.png)
+![Product Icbars](milkcart/app/static/app/images/product/icbars.png)
+![Curd Premium](milkcart/app/static/app/images/product/curd-premium.png)
 
 # 💳 Payment Integration (Razorpay)
 ```
