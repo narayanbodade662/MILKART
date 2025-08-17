@@ -58,8 +58,6 @@ MILKART/
 
 # 📸 Screenshots
 
-# 📸 Screenshots
-
 ## 🖼️ Project Banner
 ![Project Banner](milkcart/app/static/app/images/banner/b1.jpg)
 
